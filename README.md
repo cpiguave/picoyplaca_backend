@@ -18,7 +18,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
 
 1. Clona el repositorio desde GitHub:
    ```bash
-   git clone https://github.com/cpiguave/Backend_picoyplaca.git
+   git clone https://github.com/cpiguave/picoyplaca_backend.git
    cd backend-picoyplaca
    ```
 
